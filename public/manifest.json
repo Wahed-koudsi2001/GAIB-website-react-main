@@ -1,0 +1,9 @@
+{
+  "short_name": "GAIB",
+  "name": "Global Advice Insurance Brokerage",
+  "icons": [],
+  "start_url": ".",
+  "display": "browser",
+  "theme_color": "#1f3064",
+  "background_color": "#ffffff"
+}
